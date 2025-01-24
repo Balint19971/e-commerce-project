@@ -37,6 +37,9 @@ yarn-error.log
 testem.log
 /typings
 
+# Ignore images folder
+/src/assets/images/
+
 # System files
 .DS_Store
 Thumbs.db
